@@ -1,3 +1,2 @@
 # JavaBootcamp
-Java Bootcamp dersinde yazdığım kodlar.
-Merhaba Nitelikli Java+React bootcampinde yazdığım kodları sizlerle paylaşıyorum.
+Hello, I am sharing the codes I wrote in the Qualified Java + React bootcamp with you. 
